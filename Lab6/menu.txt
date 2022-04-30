@@ -1,0 +1,26 @@
+I1:Bacon and Cabbage, 14.50
+I2:Stew, 15.85
+I3:Coddle, 16.10
+I4:Mixed Olives, 6.50
+I5:Margerita, 8.99
+I6:Burrito, 13.99
+I7:Hawaiian, 13.99
+I8:Calzone, 17.50
+I9:Shepard's Pie, 18.95
+I10:Butter, 2.95
+I11:Carbonara, 16.40
+I12:Spaghetti Bolognese, 12.50
+I13:Tacos, 10.99
+I14:Lasagna, 15.70
+I15:Garlic Bread, 3.50
+I16:Parmesan, 2.90
+I17:Gelato, 4.40
+I18:Tiramisu, 5.30
+I19:Chicken Curry, 14.60
+I20:Chips, 5.20
+I21:Espresso, 1.50
+I22:Cappuccino, 2.50
+I23:Mineral Still Water, 1.20
+I24:Mineral Sparkling Water, 1.20
+I25:Coca-Cola, 3.20
+I26:Tea, 2.20
