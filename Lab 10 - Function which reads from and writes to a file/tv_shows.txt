@@ -1,7 +1,0 @@
-{765:         "Patrick Star", "stone 1"} 
-{765: "Spongebob", "pineapple 1"} 
-{825:       "Summer Smith", "home address 1"} 
-{825: "Rick Sanchez", "space address 1"}
-{825: "Rick Sanchez", "space address 1"}
-{825: "Rick Sanchez", "space address 1"}
-{9: "Matt Damon", "Mars"}
