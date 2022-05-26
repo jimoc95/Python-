@@ -1,4 +1,5 @@
-Python-
+#Python-
+Python programming projects completed during the course of my HDIP in Computer Science at UCC.
 
 This repository contains all of the coursework completed during the course of my Programming & Problem Solving module which was a major part of my Higher Diploma in Computer Science at UCC.
 During this module we were tasked with solving problems set by our lecturer each week using the python tools we had learned during the module such as lists, dictionaries, loops, slicing, list indexing, recursion etc.
